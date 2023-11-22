@@ -57,7 +57,7 @@ Method  | Backbone  | AP | AP50 | AP75 | APvt | APt | APs | APm | weight
 
 ## 🏅 ***Result on AI-TOD***
 
-Table 2. **Training Set:** SODA-D train set, **Validation Set:** AI-TOD test set, 12 epochs. [SODA-D dataset](https://shaunyuan22.github.io/SODA/)
+Table 2. **Training Set:** SODA-D train set, **Validation Set:** SODA-D test set, 12 epochs. [SODA-D dataset](https://shaunyuan22.github.io/SODA/)
 
 Method  | Schedule  | AP | AP50 | AP75 | APvt | APt | APs | APm | weight
  ---- | ----- | ------ | ------- | -------- | --------- | ---------- | ----------- | ------------ | --
