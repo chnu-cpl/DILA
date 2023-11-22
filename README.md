@@ -55,7 +55,7 @@ Method  | Backbone  | AP | AP50 | AP75 | APvt | APt | APs | APm | weight
  Faster R-CNN W/DILA  | R-50 | 22.3	| **53.7**	| 14.4	| **9.4**	| 22.4	| 28.1	| 32.4 | [model](https://pan.baidu.com/s/1u2_Layg-RpkZ__sZ5CRpcg?pwd=DILA)
  Cascade R-CNN w/DILA | R-50 | **23.0**	| 52.6	| **16.6**	| 7.9	| **23.5**	| **28.8**	| 34.6 | [model](https://pan.baidu.com/s/1u2_Layg-RpkZ__sZ5CRpcg?pwd=DILA)
 
-## 🏅 ***Result on AI-TOD***
+## 🏅 ***Result on SODA-D***
 
 Table 2. **Training Set:** SODA-D train set, **Validation Set:** SODA-D test set, 12 epochs. [SODA-D dataset](https://shaunyuan22.github.io/SODA/)
 
