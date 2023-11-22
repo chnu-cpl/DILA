@@ -72,7 +72,7 @@ Deformable-DETR	| 50e | 19.2	| 44.8	| 13.7	| 6.3 | 15.4	| 24.9	| 34.2
 Faster RCNN	| 1x | 28.9	| 59.4	| 24.1	| 13.8	| 25.7	| 34.5	| 43.0
 Cascade RPN	 | 1x | 29.1	| 56.5	| 25.9	| 12.5	| 25.5	| 35.4	| 44.7
 Faster R-CNN w/RFLA	| 1x | 29.7	| 60.2	| 25.2	| 13.2	| 26.9	| 35.4	| 44.6
-Faster R-CNN W/DILA(Ours) | 1X |	**30.4** | 	**61.4**	| **26.1**	| **14.0** |	**27.0**	| **36.5**	| **47.0** | [model](https://pan.baidu.com/s/1m57Z_gQZabLsk8Gokd6eYw?pwd=DILA)
+Faster R-CNN w/DILA(Ours) | 1X |	**30.4** | 	**61.4**	| **26.1**	| **14.0** |	**27.0**	| **36.5**	| **47.0** | [model](https://pan.baidu.com/s/1m57Z_gQZabLsk8Gokd6eYw?pwd=DILA)
 
 # 📧 **Contact**
 
