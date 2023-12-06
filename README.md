@@ -5,19 +5,17 @@
 
 * Linux
 
-* CUDA 11.3
+* CUDA
 
-* Python 3.7
+* Python 
 
-* PyTorch 1.10.0
+* PyTorch 
 
-* TorchVision 0.11.0
+* TorchVision 
 
-* mmcv-full 1.5.0
+* mmcv-full 
 
-* numpy 1.21.6
-
-* GCC 5+
+* numpy 
   
 * [cocoapi-aitod](https://github.com/jwwangchn/cocoapi-aitod)
 
