@@ -37,5 +37,7 @@ Single GPU:
 python ./tools/train.py ${CONFIG_FILE}
 python ./tools/test.py ${CONFIG_FILE} ${WORK_DIR} --eval bbox
 ```
+## **Main Results**
 
+Pretrained Models: [Baidu Netdisk].(https://pan.baidu.com/s/1gyIlj1UZGViYBjZzq8N6-w?pwd=dynv) 提取码: dynv 
 
